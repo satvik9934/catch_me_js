@@ -1,7 +1,7 @@
 #box {
     width: 7vw;
     height: 7vw;
-    background-color: #b916f4;
+    background-color: yellowgreen;
     cursor: pointer;
     position: absolute;
     display: flex;
